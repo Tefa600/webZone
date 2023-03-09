@@ -1,0 +1,23 @@
+.mainBody{
+    display: flex;
+    width: 100%;
+}
+
+.leftBody{
+    width: 50%;
+
+}
+
+.leftContent{
+   text-align: center;
+    padding: 5%;
+}
+
+.rightBody{
+    width: 50%;
+}
+
+.rightContent{
+    text-align: center;
+    padding: 5%;
+}

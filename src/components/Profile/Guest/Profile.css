@@ -1,0 +1,48 @@
+
+.bigContainer{
+    display: flex;
+    /*margin-top: 3.5rem;*/
+
+}
+.leftContainer{
+    width: 30%;
+    /* background-color: #61dafb;     */
+    background-color:  #5FBEE4;
+    height:   100vh;
+    
+
+
+
+}
+
+.rightContainer{
+    width: 70%;
+    background-color: aqua;
+
+}
+.profilePicture img{
+    margin: auto;
+    margin-top: 5rem;
+    /*padding-top: 3rem;*/
+}
+.profilePicture{
+    display: grid;
+    margin: auto;
+    justify-content: center;
+}
+.userTabs{
+    justify-content: center;
+    display: grid;
+}
+.profilePicture img{
+    /*background-image: url("./UserProfile-Male-PNG.png");*/
+
+    flex: 1;
+    width: 70%;
+    resizeMode: 'contain'
+    /*width: 20%;*/
+}
+
+.contactButton{
+    margin-bottom: 3rem;
+}
