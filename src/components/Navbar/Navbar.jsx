@@ -9,13 +9,13 @@ export default function Navbar() {
       className={`navbar navbar-expand-lg fixed-top navbar-light ${styles.navBg}`}
     >
       <div className="container-fluid">
-        {/*<a className="navbar-brand" href="Home">*/}
-        {/*  SPACE ZONE*/}
-        {/*</a>*/}
+        <a className="navbar-brand" href="/Home">
+          Home
+        </a>
         <div className="logoPic">
-          <a href="Home" className="logoHome">
+          <div className="logoHome">
             <img src={Logo} alt="Space Logo" />
-          </a>
+          </div>
         </div>
         <button
           className="navbar-toggler"
