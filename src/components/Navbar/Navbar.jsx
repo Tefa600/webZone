@@ -33,9 +33,9 @@ export default function Navbar() {
           id="navbarSupportContent"
         >
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-            {/*<li className="nav-item active">*/}
-            {/*  <Link className="nav-link" to="Home">Home <span className="sr-only">(current)</span></Link>*/}
-            {/*</li>*/}
+            <li className="nav-item active">
+              <Link className="nav-link" to="Home">Home <span className="sr-only">(current)</span></Link>
+            </li>
             <li className="nav-item">
               <Link className="nav-link" to="About">
                 About
