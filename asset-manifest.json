@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webZone/static/css/main.f0021b61.css",
+    "main.js": "/webZone/static/js/main.16b488c1.js",
+    "static/js/787.da861c93.chunk.js": "/webZone/static/js/787.da861c93.chunk.js",
+    "static/media/signup.jpg": "/webZone/static/media/signup.dc78c244bd5dc79b0326.jpg",
+    "static/media/70315747___o.jpg": "/webZone/static/media/70315747_2503614136348024_2059368429667745792_o.ceadad7f0a00787f73d8.jpg",
+    "static/media/1.jpg": "/webZone/static/media/1.d960f49d24496f87d1c8.jpg",
+    "static/media/79671723___o.jpg": "/webZone/static/media/79671723_1029776927356297_4415470205581393920_o.71996f4ed2d3fc19d122.jpg",
+    "static/media/not-found.jpg": "/webZone/static/media/not-found.42020d5271ade560aa22.jpg",
+    "static/media/Profile-Male-PNG.png": "/webZone/static/media/Profile-Male-PNG.6209f5d5a5584f7eda2d.png",
+    "static/media/SpaceZone.svg": "/webZone/static/media/SpaceZone.8abf0076df6312ffc6a41f968bfcb049.svg",
+    "index.html": "/webZone/index.html",
+    "main.f0021b61.css.map": "/webZone/static/css/main.f0021b61.css.map",
+    "main.16b488c1.js.map": "/webZone/static/js/main.16b488c1.js.map",
+    "787.da861c93.chunk.js.map": "/webZone/static/js/787.da861c93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0021b61.css",
+    "static/js/main.16b488c1.js"
+  ]
+}
